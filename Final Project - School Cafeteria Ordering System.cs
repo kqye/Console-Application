@@ -21,8 +21,8 @@ class Program
         private static string Username;
         private static string Password;
         
-        private static string adminUsername = "y";
-        private static string adminPassword = "p";
+        private static string adminUsername = "j0hnny";
+        private static string adminPassword = "y3sp4p4";
         
       
         
